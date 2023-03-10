@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Hello world4!");
         System.out.println("Hello master5!");
         System.out.println("Hello world5!");
+        System.out.println("push test!");
     }
 }
