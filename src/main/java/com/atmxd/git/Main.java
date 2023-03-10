@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Hello master5!");
         System.out.println("Hello world5!");
         System.out.println("push test!");
+        System.out.println("push test2!");
     }
 }
