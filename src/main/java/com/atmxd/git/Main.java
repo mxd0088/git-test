@@ -14,5 +14,6 @@ public class Main {
         System.out.println("pull test!");
         System.out.println("pull test!");
         System.out.println("pull test!");
+        System.out.println("pull test!");
     }
 }
